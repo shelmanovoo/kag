@@ -1,5 +1,4 @@
 # kag
-Вот аккуратно оформленный README.md для твоего проекта:
 
 Knowledge Graph QA на Neo4j + OpenAI (OpenRouter)
 
